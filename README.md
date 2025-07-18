@@ -1,2 +1,2 @@
 # N-eLENS_Procurement
-N-eLENS Procurement Dashbaord CDS Views
+N-eLENS Procurement CDS Views
